@@ -1,0 +1,29 @@
+#Brainstorm:
+A.
+#1.Theme Park Ride Allocator 
+#2.Fitness Tracker Goal Evaluator 
+#3.Sports quiz game
+
+#chosen project: Theme park ride allocator
+
+B.
+Who might use it or enjoy it?
+The user will enter their age, their height in inches, and the name of the ride they want to ride
+
+
+
+C.
+Which variables and data types will you need?
+1. int (age)
+2. double (height)
+3. String (ride)
+4. boolean (allowed)
+
+
+
+*People who vist the theme parks, including famlies, children, and teens, might use or enjoy my program.
+it can help vistors find out if they meet the requirements (height,age, and weight requiremments) before waiting
+in a line for a ride. It could also help parents decide which rides are appropriate for their children.
+
+
+
