@@ -45,7 +45,32 @@ Output/End:
 3. If they do not meet the requirements, print, "Sorry, you do not meet the requirements."
 4. Thank the user for using the program.
 
-Build your program:
+3. Test and improve
+Test 1:
+Age:20
+Height inches:55
+which ride:Ferris Wheel
+You are allowed to ride!
+Thank you for using the Theme Park ride Allocator
+
+Test 2:
+age: 13
+height:45
+which ride:Roller Coaster
+sorry, you do not meet the requirements.
+Thank you for using The Theme PArk ride Allocator.
+
+Test 3 :
+Age:17
+Height:55
+Which ride:Ferris Wheel
+You are allowed to ride!
+Thank you for using the Theme Park ride Allocator.
+
+What I learned:
+I learned how to use the scaanner varibales,and the if/else statments in the java program. And i also learned how to test my program with the different inputs.
+
+
 
 
 
